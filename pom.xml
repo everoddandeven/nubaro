@@ -64,6 +64,11 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>io.github.woodser</groupId>
+			<artifactId>monero-java</artifactId>
+			<version>0.8.37</version>
+		</dependency>
 	</dependencies>
 
 	<build>
